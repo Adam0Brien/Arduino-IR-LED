@@ -1,5 +1,5 @@
 # Arduino-IR-LED
-Code for my first working IR Remote. Turns on and off an LED when you press the power button
+Code for my first working IR Remote. Turns on and off an LED when you press the power button  Made in Arduino IDE
 
 Equipment :
 Breadboard
